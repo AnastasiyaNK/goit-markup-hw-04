@@ -406,7 +406,7 @@ body {
 }
 /* soc-footer */
 .conteiner-soc-footer {
-  display: inline-block;
+  display: block;
   margin-left: 120px;
   width: 208px;
   height: 80px;
