@@ -375,8 +375,6 @@ body {
 /* -------FOOTER------- */
 .footer-conteiner {
   display: flex;
-}
-.footer-section {
   background: var(--accent-background-color);
   padding: 100px 0;
 }
@@ -407,7 +405,6 @@ body {
 /* soc-footer */
 .conteiner-soc-footer {
   display: block;
-  margin-left: 120px;
   width: 208px;
   height: 80px;
 }
