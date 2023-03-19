@@ -404,7 +404,7 @@ body {
 }
 /* soc-footer */
 .conteiner-soc-footer {
-  display: block;
+  display: inline-block;
   width: 208px;
   height: 80px;
 }
@@ -438,7 +438,7 @@ body {
 }
 .footer-soc-link:hover,
 .footer-soc-link:focus {
-  background-color: #31d0aa;
+  background-color: var(--messages-color);
 }
 .soc-box {
   fill: #f4f4fd;
